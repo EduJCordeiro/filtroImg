@@ -1,0 +1,34 @@
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\'\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\'\Documents\CEFET - IFET\CIÊNCIA DA COMPUTAÇÃO\7 PERIODO(MARÇO A JULHO 2013)\COMPUTAÇÃO GRÁFICA\Trabalho C#\meu projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltrosDeImagem-master\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\edujc\OneDrive\Área de Trabalho\FiltroEduardo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
